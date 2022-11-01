@@ -1,0 +1,8 @@
+input_string = input("Input string: ")
+print(input_string)
+input_int = int(input("Input integer: "))
+print(input_int * 2)
+input_string_double = input("Input string: ")
+print(input_string_double * 2)
+input_float = float(input("Input float: "))
+print(input_float / 3.5)
